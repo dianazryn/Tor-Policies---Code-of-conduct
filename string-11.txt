@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 11 *
+
+ORIGINAL TEXT
+-------------
+DO: Remember: We are all contributing; we are all learning. Nobody was born an expert.
+
+TRANSLATION
+-----------
+МОЖНО: Помните: Мы все вносим свой вклад; мы все учимся. Никто не родился экспертом.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
