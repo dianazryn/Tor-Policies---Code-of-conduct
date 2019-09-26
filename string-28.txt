@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 28 *
+
+ORIGINAL TEXT
+-------------
+Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice:
+
+TRANSLATION
+-----------
+Будьте внимательны к своему окружению и другим участникам. Предупредите руководителей сообщества, если заметите:
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
