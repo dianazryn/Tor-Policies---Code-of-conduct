@@ -1,0 +1,22 @@
+* Tor Project / Tor Policies - Code of conduct / string 6 *
+
+ORIGINAL TEXT
+-------------
+This code of conduct is not exhaustive or complete. It is an ongoing effort to
+summarize our shared understanding. We want to provide a welcoming, safe environment,
+so we can work together to pursue powerful solutions. We reserve the right to deviate
+from strictly enforcing this code. Any deviations must produce an outcome which is fairer,
+and aligned with our values. We understand that keeping a living document relevant and
+“patched” involves sustained effort.
+
+TRANSLATION
+-----------
+Настоящий Кодекс поведения не является исчерпывающим или полным. Это постоянные усилия по
+обобщению нашего общего понимания. Мы хотим обеспечить гостеприимную, безопасную окружающую
+среду, чтобы мы могли работать совместно для достижения мощных решений. Мы оставляем за собой
+право отклоняться от строгого соблюдения настоящего Кодекса. Любые отклонения должны привести
+к результату, который является более справедливым и соответствует нашим ценностям. Мы понимаем,
+что поддержание живого документа актуальным и ”исправленным" требует постоянных усилий.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
