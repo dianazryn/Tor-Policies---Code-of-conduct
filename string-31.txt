@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 31 *
+
+ORIGINAL TEXT
+-------------
+violations of this code of conduct, even if they seem minor
+
+TRANSLATION
+-----------
+нарушения этого Кодекса поведения, даже если они кажутся незначительными
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
