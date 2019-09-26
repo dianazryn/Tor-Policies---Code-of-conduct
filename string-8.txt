@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 8 *
+
+ORIGINAL TEXT
+-------------
+The Tor community should be a good place where people are glad to be.
+
+TRANSLATION
+-----------
+Tor-сообщество должно быть хорошим местом, в котором люди рады находиться.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
