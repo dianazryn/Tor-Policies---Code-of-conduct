@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 29 *
+
+ORIGINAL TEXT
+-------------
+a dangerous situation
+
+TRANSLATION
+-----------
+опасную ситуацию
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
