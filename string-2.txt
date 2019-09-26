@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 2 *
+
+ORIGINAL TEXT
+-------------
+Tor Project Code of Conduct 
+
+TRANSLATION
+-----------
+Кодекс Поведения Tor Project
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
