@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 9 *
+
+ORIGINAL TEXT
+-------------
+DO: Be kind, thoughtful, and considerate.
+
+TRANSLATION
+-----------
+МОЖНО: Будьте добрыми, заботливыми и внимательными.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
