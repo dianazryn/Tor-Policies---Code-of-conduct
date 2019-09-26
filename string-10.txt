@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 10 *
+
+ORIGINAL TEXT
+-------------
+DO: Make Tor a place where people are happy and comfortable.
+
+TRANSLATION
+-----------
+МОЖНО: Превратите Tor в место, где люди счастливы и им комфортно.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
