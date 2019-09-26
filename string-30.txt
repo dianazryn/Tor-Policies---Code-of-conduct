@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 30 *
+
+ORIGINAL TEXT
+-------------
+someone in distress
+
+TRANSLATION
+-----------
+кого-то в беде
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
