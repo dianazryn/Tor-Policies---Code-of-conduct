@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 34 *
+
+ORIGINAL TEXT
+-------------
+3. Unacceptable behaviors
+
+TRANSLATION
+-----------
+3. Неприемлемое поведение
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
