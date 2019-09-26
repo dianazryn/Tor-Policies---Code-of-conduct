@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 33 *
+
+ORIGINAL TEXT
+-------------
+Respect the privacy of your fellow community members.
+
+TRANSLATION
+-----------
+Уважайте приватность ваших коллег-членов сообщества.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
