@@ -1,0 +1,14 @@
+* Tor Project / Tor Policies - Code of conduct / string 20 *
+
+ORIGINAL TEXT
+-------------
+This code of conduct outlines our expectations for all those who participate in our community,
+as well as the consequences for unacceptable behavior.
+
+TRANSLATION
+-----------
+Данный Кодекс поведения определяет наши ожидания для всех тех, кто участвует в нашем сообществе,
+а также последствия для неприемлемого поведения.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
