@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 25 *
+
+ORIGINAL TEXT
+-------------
+Exercise consideration and respect in your speech and actions.
+
+TRANSLATION
+-----------
+Проявляйте внимание и уважение в своей речи и действиях.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
