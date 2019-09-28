@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 23 *
+
+ORIGINAL TEXT
+-------------
+The following behaviors are expected and requested of all community members:
+
+TRANSLATION
+-----------
+От всех членов сообщества ожидается и запрашивается следующее поведение:
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
