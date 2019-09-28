@@ -1,0 +1,24 @@
+* Tor Project / Tor Policies - Code of conduct / string 18 *
+
+ORIGINAL TEXT
+-------------
+A primary goal of the Tor community is to be inclusive of many different contributors. We want
+to include contributors from the most varied and diverse backgrounds possible. As such, we are
+committed to providing a friendly, safe and welcoming environment for all, regardless of their
+experience, gender identity or expression, sexual orientation, family, relationships, ability
+(whether bodily or mental), personal appearance, socioeconomic status, body size, race,
+ethnicity, age, religion, nationality, or membership in a disadvantaged and/or
+underrepresented group.
+
+TRANSLATION
+-----------
+Основная цель сообщества Tor - охватить множество различных участников. Мы хотим включить
+участников из самых разных и многоообразных слоев общества. Таким образом, мы стремимся
+обеспечить дружественную, безопасную и гостеприимную среду для всех, независимо от их опыта,
+гендерной идентичности или самовыражения, сексуальной ориентации, семьи, отношений,
+способностей (физических или психических), внешнего вида, социально-экономического статуса,
+размера тела, расы, этнической принадлежности, возраста, религии, национальности или
+принадлежности к неблагополучной и/или недопредставленной группе.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
