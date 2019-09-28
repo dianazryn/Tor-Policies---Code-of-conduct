@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 24 *
+
+ORIGINAL TEXT
+-------------
+Participate in an honest and active way. In doing so, you contribute to the health and longevity of this community.
+
+TRANSLATION
+-----------
+Участвуйте добросовестно и активно. Поступая таким образом, вы вносите свой вклад в здоровье и долголетие этого сообщества.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
