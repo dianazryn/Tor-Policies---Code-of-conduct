@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 21 *
+
+ORIGINAL TEXT
+-------------
+We invite all those who participate in The Tor Project to help us create safe and positive experiences for everyone.
+
+TRANSLATION
+-----------
+Мы приглашаем всех, кто участвует в The Tor Project, помочь нам создать безопасный и позитивный опыт для всех.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
