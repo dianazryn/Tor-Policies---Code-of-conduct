@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 50 *
+
+ORIGINAL TEXT
+-------------
+race
+
+TRANSLATION
+-----------
+расой
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
