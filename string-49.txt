@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 49 *
+
+ORIGINAL TEXT
+-------------
+body size
+
+TRANSLATION
+-----------
+размером тела
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
