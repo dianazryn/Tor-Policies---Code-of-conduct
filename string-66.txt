@@ -1,0 +1,14 @@
+* Tor Project / Tor Policies - Code of conduct / string 66 *
+
+ORIGINAL TEXT
+-------------
+Anyone asked by another community member to stop unacceptable behavior is expected
+to comply immediately. Please don't step in on someone else's behalf without their consent.
+
+TRANSLATION
+-----------
+Любой, кого другой член сообщества попросил прекратить неприемлемое поведение, должен немедленно
+подчиниться. Пожалуйста, не вмешивайтесь в их защиту без их согласия.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
