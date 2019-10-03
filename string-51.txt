@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 51 *
+
+ORIGINAL TEXT
+-------------
+ethnicity
+
+TRANSLATION
+-----------
+этнической принадлежностью
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
