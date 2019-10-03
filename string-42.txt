@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 42 *
+
+ORIGINAL TEXT
+-------------
+gender identity or expression
+
+TRANSLATION
+-----------
+гендерной идентичностью или самовыражением
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
