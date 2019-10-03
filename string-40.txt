@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 40 *
+
+ORIGINAL TEXT
+-------------
+Personal insults or attacks, particularly those related to:
+
+TRANSLATION
+-----------
+Личные оскорбления или нападения, особенно связанные с:
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
