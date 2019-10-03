@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 55 *
+
+ORIGINAL TEXT
+-------------
+membership in a disadvantaged and/or underrepresented group
+
+TRANSLATION
+-----------
+принадлежностью к неблагополучной и/или недопредставленной группе
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
