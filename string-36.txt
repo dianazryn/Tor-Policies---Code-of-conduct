@@ -1,0 +1,16 @@
+* Tor Project / Tor Policies - Code of conduct / string 36 *
+
+ORIGINAL TEXT
+-------------
+Violence, sexual assault, threats of violence, or violent language directed against another person,
+especially violence against a person or group based on a protected characteristic. (Display of weapons
+may constitute intimidation or a threat of violence.)
+
+TRANSLATION
+-----------
+Насилие, в т.ч. сексуальное, угрозы насилия или насильственные выражения, направленные против другого лица,
+особенно насилие в отношении лица или группы на основе защищаемого признака. (Демонстрация оружия может
+представлять собой запугивание или угрозу насилия.)
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
