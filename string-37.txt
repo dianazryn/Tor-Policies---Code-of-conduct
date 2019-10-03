@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 37 *
+
+ORIGINAL TEXT
+-------------
+Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
+
+TRANSLATION
+-----------
+Сексистские, расистские, гомофобные, трансфобные, эйблистские или иные дискриминационные шутки и выражения.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
