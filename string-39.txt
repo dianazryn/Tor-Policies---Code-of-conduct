@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 39 *
+
+ORIGINAL TEXT
+-------------
+Posting or threatening to post other people’s personally identifying information ("doxing") without their consent.
+
+TRANSLATION
+-----------
+Размещение или угроза размещения личной информации других людей ("доксинг") без их согласия.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
