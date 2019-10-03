@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 43 *
+
+ORIGINAL TEXT
+-------------
+sexual orientation
+
+TRANSLATION
+-----------
+сексуальной ориентацией
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
