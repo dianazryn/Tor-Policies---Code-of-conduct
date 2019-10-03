@@ -1,0 +1,16 @@
+* Tor Project / Tor Policies - Code of conduct / string 65 *
+
+ORIGINAL TEXT
+-------------
+We will not tolerate unacceptable behavior from any community member. We will not make exceptions
+for sponsors and those with decision-making authority. People in formal or informal leadership roles
+must model the highest standards of behavior.
+
+TRANSLATION
+-----------
+Мы не потерпим неприемлемого поведения со стороны любого члена сообщества. Мы не будем делать исключений
+для спонсоров и тех, кто наделен директивными полномочиями. Люди, выполняющие формальные или неформальные
+руководящие роли, должны моделировать самые высокие стандарты поведения.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
