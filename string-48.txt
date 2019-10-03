@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 48 *
+
+ORIGINAL TEXT
+-------------
+socioeconomic status
+
+TRANSLATION
+-----------
+социально-экономическим статусом
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
