@@ -1,0 +1,15 @@
+* Tor Project / Tor Policies - Code of conduct / string 38 *
+
+ORIGINAL TEXT
+-------------
+Spontaneously posting or displaying sexually explicit or violent material. (If it is necessary to share such
+material when working on Tor's mission, do so with sensitivity. Be aware that many people don't want to see it.)
+
+TRANSLATION
+-----------
+Спонтанное размещение или демонстрирование материалов откровенного сексуального или насильственного характера.
+(Если необходимо поделиться таким материалом при работе над миссией Tor, делайте это с осторожностью. Учитывайте,
+что многие люди не хотят этого видеть.)
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
