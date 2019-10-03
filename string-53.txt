@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 53 *
+
+ORIGINAL TEXT
+-------------
+religion
+
+TRANSLATION
+-----------
+религией
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
