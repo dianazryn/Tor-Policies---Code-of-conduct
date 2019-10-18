@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 78 *
+
+ORIGINAL TEXT
+-------------
+9. Scope of this document
+
+TRANSLATION
+-----------
+9. Рамки настоящего документа
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
