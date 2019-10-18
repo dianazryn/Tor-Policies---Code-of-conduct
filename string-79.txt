@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 79 *
+
+ORIGINAL TEXT
+-------------
+This code of conduct covers all community participants:
+
+TRANSLATION
+-----------
+Настоящий Кодекс поведения распространяется на всех участников сообщества:
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
