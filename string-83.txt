@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 83 *
+
+ORIGINAL TEXT
+-------------
+when interacting:
+
+TRANSLATION
+-----------
+при взаимодействии:
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
