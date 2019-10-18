@@ -1,0 +1,14 @@
+* Tor Project / Tor Policies - Code of conduct / string 56 *
+
+ORIGINAL TEXT
+-------------
+Inappropriate photography, audio recording, or recording of personal information. You should
+have someone's consent before recording these things, and before posting them publicly.
+
+TRANSLATION
+-----------
+Неуместное фотографирование, звукозапись или запись личной информации. Вы должны иметь чье-либо
+согласие, прежде чем записывать эти вещи, и прежде чем публиковать их публично.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
