@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 74 *
+
+ORIGINAL TEXT
+-------------
+7. What the person reporting a violation can expect
+
+TRANSLATION
+-----------
+7. Что может ожидать лицо, сообщающее о нарушении
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
