@@ -1,0 +1,20 @@
+* Tor Project / Tor Policies - Code of conduct / string 86 *
+
+ORIGINAL TEXT
+-------------
+This code of conduct and its related procedures also applies to unacceptable behavior
+occurring outside the scope of community activities when such behavior has the potential
+to adversely affect the safety and well-being of community members. As members of the Tor
+community, we support and follow this Code while we are working on Tor, and take care not
+to undermine it in the rest of our time.
+
+TRANSLATION
+-----------
+Настоящий Кодекс поведения и связанные с ним процедуры также применяются к неприемлемому
+поведению, происходящему вне сферы деятельности сообщества, когда такое поведение может
+негативно сказаться на безопасности и благополучии членов сообщества. Как члены сообщества
+Tor, мы поддерживаем и следуем этому кодексу, пока работаем над Tor, и заботимся о том,
+чтобы не подрывать его в остальное время.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
