@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 72 *
+
+ORIGINAL TEXT
+-------------
+6. What to do if you witness unacceptable behavior
+
+TRANSLATION
+-----------
+6. Что делать, если вы стали свидетелем неприемлемого поведения
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
