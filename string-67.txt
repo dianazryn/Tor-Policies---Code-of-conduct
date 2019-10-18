@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 67 *
+
+ORIGINAL TEXT
+-------------
+5. Where to go for help
+
+TRANSLATION
+-----------
+5. Куда обратиться за помощью
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
