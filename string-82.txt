@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 82 *
+
+ORIGINAL TEXT
+-------------
+other guests
+
+TRANSLATION
+-----------
+прочие гости
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
