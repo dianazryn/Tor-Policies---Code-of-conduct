@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 26 *
+
+ORIGINAL TEXT
+-------------
+Attempt collaboration and dialog before engaging in conflict.
+
+TRANSLATION
+-----------
+Попытайтесь вступить в сотрудничество и диалог, прежде чем вступать в конфликт.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
