@@ -1,0 +1,12 @@
+* Tor Project / Tor Policies - Code of conduct / string 85 *
+
+ORIGINAL TEXT
+-------------
+one-on-one communications
+
+TRANSLATION
+-----------
+в индивидуальных сообщениях, связанных c работой сообщества
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
